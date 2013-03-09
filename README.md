@@ -1,3 +1,23 @@
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+-
+
+
+Checklist
+
+- [ ]
+- [x]
+- [] 
+ 
+ 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 Bacon ipsum dolor sit amet pastrami drumstick beef ribs, turducken ball tip frankfurter shoulder pork belly biltong bacon brisket chicken hamburger jerky fatback. Short loin turkey beef ribs andouille tongue meatball pig pork chop drumstick. Beef ribs brisket sausage meatloaf. Brisket jowl shankle strip steak jerky. Meatloaf cow boudin ground round venison, rump spare ribs turducken short loin chicken. Shankle biltong filet mignon, leberkas shoulder pork belly pancetta pig spare ribs tongue. Pancetta prosciutto cow leberkas shankle ribeye salami swine tongue short ribs pork loin.
 
 Pork chop ham andouille ground round shank rump leberkas pastrami. Boudin frankfurter ground round beef. Frankfurter shankle filet mignon cow jowl andouille pork pastrami tenderloin meatball tri-tip shoulder. Filet mignon chicken pig beef ribs fatback turkey t-bone leberkas. Short loin spare ribs beef, beef ribs jowl cow biltong shoulder swine leberkas drumstick meatball ham hock hamburger.
